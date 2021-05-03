@@ -231,7 +231,7 @@ def start(update: Update, context: CallbackContext):
                                 url=f"https://t.me/Smashhackers",
                             ),
                             InlineKeyboardButton(
-                                text="🔔 Updates",
+                                text=" Updates",
                                 url="https://t.me/dengerousbots",
                             ),
                         ],
